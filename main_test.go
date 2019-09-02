@@ -1,6 +1,20 @@
 package main
 
+import "os"
+
 func Example() {
+	os.Args = []string{"hello", "world"}
 	main()
-	// Output: Hello World!
+	// Output:
+	// +-----------------+
+	// |                 |
+	// |                 |
+	// |                 |
+	// |                 |
+	// |        S . . E  |
+	// |         . . =   |
+	// |            . *  |
+	// |             =   |
+	// |                 |
+	// +-----------------+
 }
