@@ -11,6 +11,7 @@
 [![codecov](https://codecov.io/gh/moul/drunken-bishop/branch/master/graph/badge.svg)](https://codecov.io/gh/moul/drunken-bishop)
 [![Docker Metrics](https://images.microbadger.com/badges/image/moul/drunken-bishop.svg)](https://microbadger.com/images/moul/drunken-bishop)
 [![GolangCI](https://golangci.com/badges/github.com/moul/drunken-bishop.svg)](https://golangci.com/r/github.com/moul/drunken-bishop)
+[![npm](https://img.shields.io/npm/v/@moul.io/drunken-bishop)](https://www.npmjs.com/package/@moul.io/drunken-bishop)
 [![Sourcegraph](https://sourcegraph.com/github.com/moul/drunken-bishop/-/badge.svg)](https://sourcegraph.com/github.com/moul/drunken-bishop?badge)
 [![Made by Manfred Touron](https://img.shields.io/badge/made%20by-Manfred%20Touron-blue.svg?style=flat)](https://manfred.life/)
 
