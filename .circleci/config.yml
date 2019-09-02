@@ -7,8 +7,8 @@ workflows:
   main:
     jobs:
       - moul/golang-build:
-          gopkg: moul.io/golang-repo-template
+          gopkg: moul.io/drunken-bishop
       - moul/golang-build:
-          gopkg: moul.io/golang-repo-template
+          gopkg: moul.io/drunken-bishop
           tag: '1.11'
       - moul/docker-build

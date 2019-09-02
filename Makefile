@@ -1,5 +1,5 @@
-GOPKG ?=	moul.io/golang-repo-template
-DOCKER_IMAGE ?=	moul/golang-repo-template
+GOPKG ?=	moul.io/drunken-bishop
+DOCKER_IMAGE ?=	moul/drunken-bishop
 GOBINS ?=	.
 
 all: test install
