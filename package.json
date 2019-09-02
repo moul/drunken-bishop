@@ -1,7 +1,7 @@
 {
     "_comment": "this project is not a node.js one, package.json is just used to define some metadata",
     "name": "@moul.io/drunken-bishop",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "author": "Manfred Touron <oss@moul.io> (https://manfred.life)",
     "contributors": [
         "Manfred Touron <oss@moul.io> (https://manfred.life)"
@@ -12,11 +12,6 @@
         "install": "make install",
         "test": "make test"
     },
-    "files": [
-        "*.md",
-        "LICENSE*",
-        "COPYRIGHT"
-    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/moul/drunken-bishop.git"
