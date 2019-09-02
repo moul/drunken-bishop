@@ -1,6 +1,6 @@
 # drunken-bishop
 
-:smile: drunken-bishop
+:smile: drunken bishop algorithm, to generate ascii-art representations of fingerprints
 
 [![CircleCI](https://circleci.com/gh/moul/drunken-bishop.svg?style=shield)](https://circleci.com/gh/moul/drunken-bishop)
 [![GoDoc](https://godoc.org/moul.io/drunken-bishop?status.svg)](https://godoc.org/moul.io/drunken-bishop)
@@ -18,8 +18,18 @@
 ## Usage
 
 ```console
-$ drunken-bishop -h
-...
+$ drunken-bishop hello world
++-----------------+
+|                 |
+|       o         |
+|      . X . E    |
+|       O + =     |
+|      o S + *    |
+|     .   . =     |
+|                 |
+|                 |
+|                 |
++-----------------+
 ```
 
 ## Install
