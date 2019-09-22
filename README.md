@@ -51,6 +51,12 @@ $ brew install moul/moul/drunken-bishop
 
 https://github.com/moul/drunken-bishop/releases
 
+## Related projects
+
+* https://github.com/thcipriani/slime-bishop
+* https://blog.benjojo.co.uk/post/ssh-randomart-how-does-it-work-art
+* https://pthree.org/2014/05/16/openpgp-key-random-art-now-with-ansi-color-support/
+
 ## License
 
 © 2019 [Manfred Touron](https://manfred.life)
